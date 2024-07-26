@@ -1,0 +1,6 @@
+{
+  "component-app-2": {
+    "component": "ComponentApp2",
+    "render": "client"
+  }
+}

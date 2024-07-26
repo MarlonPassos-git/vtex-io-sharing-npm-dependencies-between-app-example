@@ -1,0 +1,30 @@
+{
+    "commons": {
+        "dev": [
+            {
+                "global": "Swiper",
+                "import": "swiper",
+                "path": "npm:swiper@8.4.7/swiper.esm.js"
+            },
+            {
+                "global": "Swiper-react",
+                "import": "swiper/react",
+                "path": "npm:swiper@8.4.7/react/swiper-react.js"
+            }
+        ],
+        "prod": [
+            {
+                "global": "Swiper",
+                "import": "swiper",
+                "path": "npm:swiper@8.4.7/swiper.esm.js"
+            },
+            {
+                "global": "Swiper-react",
+                "import": "swiper/react",
+                "path": "npm:swiper@8.4.7/react/swiper-react.js"
+            }
+        ]
+    },
+    "vtex": {},
+    "gocommerce": {}
+}
